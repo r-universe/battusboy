@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ordiBreadth"]
+	path = ordiBreadth
+	url = https://github.com/cran/ordiBreadth
+	shallow = true
+	registered = true
